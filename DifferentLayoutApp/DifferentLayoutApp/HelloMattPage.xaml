@@ -7,7 +7,7 @@
              x:Class="DifferentLayoutApp.HelloMattPage">
     <ContentPage.Content>
 
-        <Label Text="Hello, XAML!"
+        <Label Text="Hello Matt! I hope you enjoyed my very simple app :)"
                VerticalOptions="Center"
                HorizontalTextAlignment="Center"
                Rotation="-15"
